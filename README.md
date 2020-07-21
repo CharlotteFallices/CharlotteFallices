@@ -1,7 +1,7 @@
 # Profile
 [CharlotteFallices](https://github.com/CharlotteFallices) is a perennial herbaceous succulent plant in the cactus family, The plant is solitary or clustered.<br>
 It can enable indirect communication between organisms of the same species using different expressions.<br>
-Hermaphrodite, predominantly male, estrus uninterrupted throughout the year.<br>
+Hermaphrodite, predominantly female, estrus uninterrupted throughout the year.<br>
 
 <!--
 **CharlotteFallices/CharlotteFallices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
